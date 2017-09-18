@@ -8,3 +8,9 @@ There are two widget:
 2. A dynamicly loaded tags use Ajax. You can user FancyAjaxTaggableManager just like TaggableManager, or use FancyAjaxTagMixin. 
   But you need to ada a URL to enable the REST url. 
   `url(r'^fancytag/', include('fancytag.urls', namespace='fancytag')),`
+
+
+screenshot:
+
+[截图](./screenshot.png)
+
