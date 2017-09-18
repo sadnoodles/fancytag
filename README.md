@@ -12,5 +12,5 @@ There are two widget:
 
 screenshot:
 
-[截图](./screenshot.png)
+![截图](./screenshot.png)
 
