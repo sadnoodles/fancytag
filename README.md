@@ -14,3 +14,4 @@ screenshot:
 
 ![截图](./screenshot.png)
 
+You can find out the usage in this commit: https://github.com/sadnoodles/fancytag/commit/2019355cce15d2fe529cfa6b1210ca1f6c1dcbf4
